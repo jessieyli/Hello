@@ -1,4 +1,4 @@
-# iOSHello## Hello
+## Hello
 
 ### App Description
 Hello is a basic iOS app that allows you to display a message and alternate between two text/view colors.
